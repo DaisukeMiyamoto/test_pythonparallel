@@ -14,3 +14,4 @@ def do_parallel(num):
 if __name__ == '__main__':
     do_parallel(1000)
     do_parallel(10000)
+    do_parallel(100000)
